@@ -32,7 +32,7 @@ import com.aliyun.openservices.oss.model.UploadPartRequest;
 import com.aliyun.openservices.oss.model.UploadPartResult;
 
 /**
- * 该示例代码展示了如何使用OSS的Multipart上传方式进行多线程分段上传较大文件好啊。
+ * 该示例代码展示了如何使用OSS的Multipart上传方式进行多线程分段上传较大文件不好。
  *
  * 该示例代码执行的过程为：
  * 1. 检查指定的Bucket是否存在，如果不存在则创建它；
